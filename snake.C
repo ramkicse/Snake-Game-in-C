@@ -12,6 +12,7 @@ int button,n,m;
 struct time t;
 int ro,co,xc1=0,yc1=0,bon=0,xc=0,yc=0,v,are,level=1,score=0,zzz=50,ddd=0;
 char *buff,*f1,*f2,*st1,name[30]="player";
+
 ra()
 {
 	setcolor(14);
